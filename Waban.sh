@@ -16,9 +16,9 @@ clear
 pkg install toilet -y
 clear
 echo -e ""
-toilet --filter metal 'WHATSAPP NUMBER BANNING'
+toilet --filter metal 'WHATSAPP NUMBER BANNER'
 sleep 7
-echo -e "             $white  coded by$blue ${underline}xhackz"
+echo -e "             $white  coded by$blue ${underline}MR. HACKTIVIST"
 echo ""
 }
 banner
